@@ -1,9 +1,6 @@
 var animal = 'dog'
 
 function myAnimal() {
-  if (animal === "dog")
-    return "cat"
-  else 
     return "dog"
 }
 
